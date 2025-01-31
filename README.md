@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Gabi, I'm 26 years old, I work as an IT Support Analyst at the São Paulo Museum of Modern Art and<br>I completed my degree in Systems Analysis and Development at UniFECAF in 2024. I am currently studying .NET and C#, and C++,<br>but I have knowledge in Python, Godot and Unity engine. My goal is to work with the development of digital games.</p>
+<p align="center">I'm Gabi, I'm 26 years old, I work as an IT Support Analyst at the São Paulo Museum of Modern Art and<br>I completed my degree in Systems Analysis and Development at UniFECAF in 2024. I am currently studying .NET and C#,<br>but I have knowledge in HTML, CSS, JavaScript, Godot and Unity engine.</p>
 
 ###
 
