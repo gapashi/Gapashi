@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Gabi, I'm 26 years old, I work as an IT Support Analyst at the São Paulo Museum of Modern Art and<br>I completed my degree in Systems Analysis and Development at UniFECAF in 2024. I am currently studying .NET and C#,<br>but I have knowledge in HTML, CSS, JavaScript, Godot and Unity engine.</p>
+<p align="center">I'm Gabi, I'm 27 years old, I'm a Game Developer of Unity and Godot.<br>I'm graduated in Systems Analysis and Development, specialized in .NET C# by FIAP and studying Digital Games Development in Unity.<br>I have experience with Godot and Unity engine.</p>
 
 ###
 
@@ -19,8 +19,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
@@ -31,7 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
