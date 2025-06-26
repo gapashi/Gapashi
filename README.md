@@ -2,6 +2,8 @@
 
 ###
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapashi)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">I'm Gabi, I'm 27 years old, I'm a Game Developer of Unity and Godot.<br>I'm graduated in Systems Analysis and Development, specialized in .NET C# by FIAP and studying Digital Games Development in Unity.<br>I have experience with Godot and Unity engine.</p>
 
 ###
