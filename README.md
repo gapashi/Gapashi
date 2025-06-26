@@ -3,7 +3,7 @@
 ###
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapashi&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapashi&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapashi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">I'm Gabi, I'm 27 years old, I'm a Game Developer of Unity and Godot.<br>I'm graduated in Systems Analysis and Development, specialized in .NET C# by FIAP and studying Digital Games Development in Unity.<br>I have experience with Godot and Unity engine.</p>
 
@@ -28,7 +28,6 @@
   <img width="12" />
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
 ###
 
 <br clear="both">
