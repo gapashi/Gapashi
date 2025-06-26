@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/gabriella-parente-shibata-0a3556148/" target="_blank">
     <img src="https://img.icons8.com/ios_filled/512/linkedin.png" width="50" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/gapashi/" target="_blank">
+  <a href="https://gapashi.itch.io/" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=zfuVDK4SdKFq&format=png" width="50" height="50" alt="itch logo"  />
   </a>
 </div>
