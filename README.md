@@ -2,8 +2,6 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapashi&show_icons=true&layout=compact&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapashi&hide=HLSL,ShaderLab,javascript,typescript&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
 <p align="center">
   I'm Gabi, I'm a <b>Game Developer, Tech Educator, and Professor of Programming & Robotics</b>.<br>
   I'm graduated in Systems Analysis and Development, specialized in .NET C# by FIAP, and I specialize in digital game development.
@@ -39,7 +37,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" height="40" alt="scratch logo" />
   
   <br><br>
 
