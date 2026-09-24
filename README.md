@@ -1,19 +1,16 @@
 <h1 align="center">Hello! Welcome to my GitHub!</h1>
 
-###
-
 <p align="center">
-  I'm Gabi, I'm a <b>Game Developer, Tech Educator, and Professor of Programming & Robotics</b>.<br>
+  I'm Gabi, I'm a <b>Game Developer, Tech Educator, and Professor of Programming & Robotics.</b><br>
   I'm graduated in Systems Analysis and Development, specialized in .NET C# by FIAP, and I specialize in digital game development.
 </p>
 
 <p align="center">
-  As an educator, I focus on heavy-impact learning across multiple tech fronts:
-  <br>
+  As an educator, I focus on heavy-impact learning across multiple tech fronts:<br>
   🎮 <b>Game Development:</b> Hands-on teaching with Unity, Construct 3, Scratch, and GameMaker.<br>
-  🌐 <b>Web Development:</b> Building modern interfaces and fullstack applications with JavaScript, Node.js, Tailwind CSS, and daisyUI.<br>
+  🌐 <b>Web Development:</b> Building modern interfaces and fullstack applications with JavaScript, React.js, Node.js, CSS, Bootstrap, and MongoDB.<br>
   🤖 <b>Robotics & Physical Computing:</b> Bringing logic to life using Micro:bit, Makey Makey, and Arduino.<br>
-  📊 <b>Data Science & AI:</b> Teaching data foundations and Artificial Intelligence implementation using Python.
+  📊 <b>Data Science & AI:</b> Teaching data foundations and Artificial Intelligence implementation using Python and SQLite.
 </p>
 
 ###
