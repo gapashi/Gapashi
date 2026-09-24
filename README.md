@@ -20,43 +20,26 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="217" src="https://64.media.tumblr.com/f5596f9e97b8041b7d454fccaf4d1e28/112d569ec1e793db-3d/s540x810/68c898eb05a681a52ae95cefd3c9096d535e2096.gifv" />
-</div>
+### Connect with me
+<p align="left">
+  <a href="mailto:gabriella.pshibata@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gabriella-parente-s-0a3556148/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gapashi.itch.io/" target="_blank"><img src="https://img.shields.io/badge/ITCH-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch" /></a>
+</p>
 
-###
-
-<br clear="both">
-
-<!-- Tech Stack & Tools Section -->
-<div align="center">
-  <!-- Game Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
-  <img width="8" />
-  
-  <br><br>
-
-  <!-- Web Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  
-  <br><br>
-
-  <!-- Data Science, AI & Hardware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-</div>
-
-###
-
+### Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/GameMaker-E57307?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Scratch-85A726?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" />
+</p>
 <br clear="both">
 
 <div align="center">
